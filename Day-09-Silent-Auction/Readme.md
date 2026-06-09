@@ -17,6 +17,11 @@ A command-line silent auction application built in Python.
 - Conditional Statements
 - User Input
 
+## Files
+
+- `main.py` - Contains the auction logic.
+- `art.py` - Stores the ASCII art/logo used in the program.
+
 ## Run
 
 ```bash
