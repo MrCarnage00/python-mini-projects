@@ -1,4 +1,4 @@
-# Day 09 - Silent Auction
+# Silent Auction
 
 A command-line silent auction application built in Python.
 
