@@ -1,4 +1,4 @@
-# Day 09 - Silent Auction
+# Silent Auction
 
 A command-line silent auction application built in Python.
 
@@ -16,6 +16,11 @@ A command-line silent auction application built in Python.
 - Loops
 - Conditional Statements
 - User Input
+
+## Files
+
+- `main.py` - Contains the auction logic.
+- `art.py` - Stores the ASCII art/logo used in the program.
 
 ## Run
 
