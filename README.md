@@ -1,10 +1,10 @@
-# Python Mini Projects
+# 🐍 Python Mini Projects
 
 A collection of Python projects built while learning Python and strengthening programming fundamentals.
 
 ## About
 
-This repository contains projects completed during my Python learning journey. Each project focuses on applying core programming concepts through hands-on practice.
+This repository contains projects completed during my Python learning journey. Each project focuses on applying core programming concepts through hands-on practice and improving problem-solving skills.
 
 ## Skills Practiced
 
@@ -21,18 +21,26 @@ This repository contains projects completed during my Python learning journey. E
 
 ## Projects
 
-| Day | Project | Concepts |
-|-----|----------|----------|
-| 09 | Silent Auction | Functions, Dictionaries, Loops, User Input |
+| Project | Concepts |
+|---------|----------|
+| 🧮 Calculator | Functions, Dictionaries, Loops, Conditional Logic, Modules |
+| 🔨 Silent Auction | Functions, Dictionaries, Loops, User Input |
 
 ## Repository Structure
 
 ```text
+
 python-mini-projects/
 │
-├── Day-09-Silent-Auction/
+├── Calculator/
 │   ├── main.py
-|   └── art.py
+│   ├── artcalc.py
+│   └── README.md
+│
+├── Silent-Auction/
+│   ├── main.py
+│   ├── art.py
 │   └── README.md
 │
 └── README.md
+
